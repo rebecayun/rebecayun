@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on [SIAS](https://github.com/JairoDevBR/SIAS.git)
 
+- ✏️ I graduated from **Le Wagon's 9-week bootcamp**
+
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **JavaScript**
