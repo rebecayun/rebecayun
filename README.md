@@ -6,7 +6,7 @@
 
 - ✏️ I graduated from **Le Wagon's 9-week bootcamp**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **JavaScript**
 
